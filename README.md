@@ -1,5 +1,5 @@
 # ipp
-Pricnipy programovacích jazyků a OOP
+Pricnipy programovacích jazyků a OOP - obsahuje projekty (Python/PHP)
 
 # Projekt č. 1: 
 Parser pro smyšlený jazyk IPPcode20. Více implementačních detailů v proj1/readme1.pdf. (PHP)
